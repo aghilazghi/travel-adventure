@@ -5,7 +5,7 @@
   &__image {
      display: block;
    }
-   
+
   &__text-content{
     position: absolute;
     top: 50%;
@@ -39,10 +39,9 @@
   }
 
   &__description {
-    color: $mainYellow;
+    color: #fff;
     font-size: 1.1rem;
     font-weight: 300;
-    text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.2);
     max-width: 30rem;
     margin-left: auto;
     margin-right: auto;
