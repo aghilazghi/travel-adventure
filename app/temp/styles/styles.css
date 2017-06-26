@@ -461,7 +461,7 @@ img {
 
 .landing-page {
   position: relative;
-  border-bottom: 10px solid #0c1f3d;
+  border-bottom: 10px solid #2b517a;
 }
 
 .landing-page__image {
@@ -480,7 +480,7 @@ img {
 
 .landing-page__title {
     font-weight: 300;
-    color: #0c1f3d;
+    color: #2b517a;
     margin: 0;
     font-size: 2rem;
   }
@@ -494,7 +494,7 @@ img {
 
 .landing-page__subtitle {
     font-weight: 300;
-    color: #0c1f3d;
+    color: #2b517a;
     font-size: 1.5rem;
     margin: 0;
 
@@ -526,7 +526,7 @@ img {
   }
 
 .btn {
-  background-color: #0c1f3d;
+  background-color: #2b517a;
   color: #fff;
   text-decoration: none;
   padding: .75rem 1.2rem;
@@ -551,4 +551,16 @@ img {
 .wrapper {
     padding-left: 18px;
     padding-right: 18px;
+    max-width: 1200px;
+    margin-left:auto;
+    margin-right:auto;
 }
+
+.page-section {
+    padding: 4.5rem 0;
+}
+
+.page-section--blue {
+        background-color: #2b517a;
+        color: #fff;
+    }
