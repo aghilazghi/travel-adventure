@@ -43,4 +43,8 @@
     &--bottom-margin-large {
         margin-bottom: 1.6em;
     }
+
+    &--no-top-margin {
+      margin-top: 0;
+    }
 }
