@@ -34,9 +34,11 @@
     }
 
     &__subtitle {
-        color: $mainOrange;
+        color: $mainYellow;
+        text-shadow: 1px 1px #999;
+        font-size: 1.1rem;
         text-align: center;
-        font-weight: 500;
+        font-weight: 400;
         margin-top: .25rem;
         margin-bottom: 1rem;
     }

@@ -1010,9 +1010,11 @@ a {
     }
 
 .testimonial__subtitle {
-        color: #d59541;
+        color: #D59B2A;
+        text-shadow: 1px 1px #999;
+        font-size: 1.1rem;
         text-align: center;
-        font-weight: 500;
+        font-weight: 400;
         margin-top: .25rem;
         margin-bottom: 1rem;
     }
@@ -1092,3 +1094,27 @@ a {
         height: 42px;
         background-position: 36.69752421959096% 45.792307692307695%;
     }
+
+.site-footer {
+    background-color: #2b517a;
+    color: #fff;
+    padding: .5rem;
+    text-align: center;
+
+   
+}
+
+.site-footer__text {
+        display: block;
+        margin-bottom: 1rem;
+        font-weight: 200;
+    }
+
+@media (min-width: 800px){
+
+.site-footer__text {
+            display: inline;
+            margin-bottom: 0;
+            margin-right: 1.4rem
+    }
+  }
