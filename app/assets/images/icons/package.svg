@@ -29,18 +29,21 @@
 <?xpacket end="w"?></metadata>
 <defs>
     <style>
-      .cls-1 {
+      .cls-1, .cls-2 {
         fill: none;
         stroke: #d59541;
         stroke-width: 3px;
       }
 
       .cls-2 {
-        fill: #d59541;
         fill-rule: evenodd;
       }
     </style>
   </defs>
   <circle class="cls-1" cx="32" cy="32" r="31"/>
-  <path class="cls-2" d="M31.5,12L26,24.8,12,27l9.8,10L18.6,49l12.9-5,12.7,7L41,36l10-9L37.8,24.8Z"/>
+  <circle class="cls-1" cx="32.5" cy="48.5" r="5.5"/>
+  <path class="cls-2" d="M28.036,45.495L14.061,28.37,9.454,26.617"/>
+  <path class="cls-2" d="M26.541,31.859L40.863,20.067l6.992,8.492L33.533,40.351Z"/>
+  <path class="cls-2" d="M23.61,27.982L31.049,21.3l3.342,3.719L26.951,31.7Z"/>
+  <path class="cls-2" d="M35.3,43.925L52.215,30.555"/>
 </svg>

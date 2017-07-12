@@ -2,7 +2,7 @@
 
 
         .icon {
-            background-image: url('/assets/images/sprites/sprite-ef604491.svg');
+            background-image: url('/assets/images/sprites/sprite-1f58224b.svg');
         }
 
 
@@ -17,7 +17,15 @@
     .icon--comment {
         width: 64px;
         height: 64px;
-        background-position: 100% 0;
+        background-position: 0 100%;
+    }
+
+
+
+    .icon--dream-vacation-logo {
+        width: 143px;
+        height: 60px;
+        background-position: 0 31.914893617021278%;
     }
 
 
@@ -25,7 +33,7 @@
     .icon--facebook {
         width: 21.23px;
         height: 42.01px;
-        background-position: 26.040607071652357% 46.15739672282483%;
+        background-position: 99.75778436434331% 82.55740569930579%;
     }
 
 
@@ -33,7 +41,7 @@
     .icon--fire {
         width: 56px;
         height: 64px;
-        background-position: 0 100%;
+        background-position: 21.50537634408602% 65.21739130434783%;
     }
 
 
@@ -41,7 +49,7 @@
     .icon--globe {
         width: 64px;
         height: 64px;
-        background-position: 27.586206896551722% 100%;
+        background-position: 42.80442804428044% 65.21739130434783%;
     }
 
 
@@ -49,7 +57,7 @@
     .icon--instagram {
         width: 42.01px;
         height: 42.01px;
-        background-position: 63.558380372460995% 49.234556504346486%;
+        background-position: 92.49462438991091% 82.55740569930579%;
     }
 
 
@@ -57,7 +65,31 @@
     .icon--mail {
         width: 64px;
         height: 48px;
-        background-position: 0 48.38709677419355%;
+        background-position: 76.38376383763837% 32%;
+    }
+
+
+
+    .icon--money {
+        width: 64px;
+        height: 64px;
+        background-position: 76.38376383763837% 60.869565217391305%;
+    }
+
+
+
+    .icon--network {
+        width: 64px;
+        height: 64px;
+        background-position: 52.76752767527675% 0;
+    }
+
+
+
+    .icon--package {
+        width: 64px;
+        height: 64px;
+        background-position: 23.616236162361623% 100%;
     }
 
 
@@ -65,7 +97,23 @@
     .icon--rain {
         width: 64px;
         height: 64px;
-        background-position: 100% 59.25925925925926%;
+        background-position: 47.23247232472325% 100%;
+    }
+
+
+
+    .icon--reliable {
+        width: 64px;
+        height: 64px;
+        background-position: 70.84870848708488% 100%;
+    }
+
+
+
+    .icon--resource {
+        width: 64px;
+        height: 64px;
+        background-position: 100% 0;
     }
 
 
@@ -73,7 +121,15 @@
     .icon--star {
         width: 64px;
         height: 64px;
-        background-position: 59.11330049261084% 100%;
+        background-position: 100% 34.78260869565217%;
+    }
+
+
+
+    .icon--tour {
+        width: 64px;
+        height: 64px;
+        background-position: 76.38376383763837% 0;
     }
 
 
@@ -81,7 +137,7 @@
     .icon--twitter {
         width: 51.78px;
         height: 42.06px;
-        background-position: 94.32208902518353% 98.50700323226104%;
+        background-position: 95.68533295671209% 62.15402544430417%;
     }
 
 
@@ -89,7 +145,7 @@
     .icon--wifi {
         width: 60px;
         height: 64px;
-        background-position: 69.08212560386474% 0;
+        background-position: 0 65.21739130434783%;
     }
 
 
@@ -97,5 +153,5 @@
     .icon--youtube {
         width: 34.75px;
         height: 42px;
-        background-position: 36.69752421959096% 46.15384615384615%;
+        background-position: 47.626977518734385% 31.067961165048544%;
     }

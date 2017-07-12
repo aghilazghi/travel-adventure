@@ -36,11 +36,13 @@
       }
 
       .cls-2 {
+        font-size: 58.333px;
         fill: #d59541;
-        fill-rule: evenodd;
+        text-anchor: middle;
+        font-family: Arial;
       }
     </style>
   </defs>
   <circle class="cls-1" cx="32" cy="32" r="31"/>
-  <path class="cls-2" d="M31.5,12L26,24.8,12,27l9.8,10L18.6,49l12.9-5,12.7,7L41,36l10-9L37.8,24.8Z"/>
+  <text id="_" data-name="$" class="cls-2" x="32.167" y="51"><tspan x="32.167">$</tspan></text>
 </svg>
